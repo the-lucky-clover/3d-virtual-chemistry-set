@@ -1,0 +1,6 @@
+{
+  "name": "3D Virtual Chemistry Lab",
+  "description": "Mobile-first 3D interactive virtual chemistry set with realistic lab apparatus, safety protocols, chemical reactions, titrations, extractions, and guided educational experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
